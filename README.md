@@ -5,7 +5,8 @@ ___
 ---
 
 ## :books: Graph renderer (Sigma.js meta example)
-This project is aimed to serve as an intermediate layer between your project and useful graph representation. Right now it ships as a full-stack application with TypeScript frontend and Flask backend and only serves as a representation.
+- This project is aimed to serve as an intermediate layer between your project and useful graph representation. Right now it ships as a full-stack application with TypeScript frontend and Flask backend and only serves as a representation.
+- Wait for GIFs to load in this README to understand visually what this project is about
 
 ---
 ---
